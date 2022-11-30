@@ -1,0 +1,989 @@
+[
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/chinesefreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Chinese+Freecell",
+    "name": "Chinese Freecell",
+    "embedLink": "https://cdn.htmlgames.com/ChineseFreeCell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spades300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spades",
+    "name": "Spades",
+    "embedLink": "https://cdn.htmlgames.com/Spades/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/bunnysolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Bunny+Solitaire",
+    "name": "Bunny Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/BunnySolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spiteandmaliceextreme300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spite+and+Malice+Extreme",
+    "name": "Spite and Malice Extreme",
+    "embedLink": "https://cdn.htmlgames.com/SpiteAndMaliceExtreme/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/hartenjagen300200.jpg",
+    "link": "https://www.htmlgames.com/game/Hartenjagen",
+    "name": "Hartenjagen",
+    "embedLink": "https://cdn.htmlgames.com/Hartenjagen/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/gargantuadoubleklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Gargantua+Double+Klondike",
+    "name": "Gargantua Double Klondike",
+    "embedLink": "https://cdn.htmlgames.com/GargantuaDoubleKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spidersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spider+Solitaire",
+    "name": "Spider Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SpiderSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/flowersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Flower+Solitaire",
+    "name": "Flower Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FlowerSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/indiansolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Indian+Solitaire",
+    "name": "Indian Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/IndianSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/twocell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Two+Cell",
+    "name": "Two Cell",
+    "embedLink": "https://cdn.htmlgames.com/TwoCell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/goldcoastklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Gold+Coast+Klondike",
+    "name": "Gold Coast Klondike",
+    "embedLink": "https://cdn.htmlgames.com/GoldCoastKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/klaverjassen300.jpg",
+    "link": "https://www.htmlgames.com/game/Klaverjassen",
+    "name": "Klaverjassen",
+    "embedLink": "https://cdn.htmlgames.com/Klaverjassen/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/christmassolitaire1300200.jpg",
+    "link": "https://www.htmlgames.com/game/Christmas+Solitaire",
+    "name": "Christmas Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ChristmasSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/junglesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Jungle+Solitaire",
+    "name": "Jungle Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/JungleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellchristmas300200.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Christmas",
+    "name": "Freecell Christmas",
+    "embedLink": "https://cdn.htmlgames.com/FreecellChristmas/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/klondikesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Klondike+Solitaire",
+    "name": "Klondike Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/KlondikeSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/totemsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Totem+Solitaire",
+    "name": "Totem Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TotemSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/scorpionsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Scorpion+Solitaire",
+    "name": "Scorpion Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ScorpionSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/thirtyone300200.jpg",
+    "link": "https://www.htmlgames.com/game/Thirty+One",
+    "name": "Thirty One",
+    "embedLink": "https://cdn.htmlgames.com/ThirtyOne/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/planetsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Planet+Solitaire",
+    "name": "Planet Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/PlanetSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/halloweentripeaks300200.jpg",
+    "link": "https://www.htmlgames.com/game/Halloween+Tripeaks",
+    "name": "Halloween Tripeaks",
+    "embedLink": "https://cdn.htmlgames.com/HalloweenTripeaks/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/5stackblackjack300.jpg",
+    "link": "https://www.htmlgames.com/game/5+Stack+Blackjack",
+    "name": "5 Stack Blackjack",
+    "embedLink": "https://cdn.htmlgames.com/5StackBlackjack/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tripeaksfarm300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tripeaks+Farm",
+    "name": "Tripeaks Farm",
+    "embedLink": "https://cdn.htmlgames.com/TripeaksFarm/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spiteandmalice300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spite+and+Malice",
+    "name": "Spite and Malice",
+    "embedLink": "https://cdn.htmlgames.com/SpiteAndMalice/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spidersolitaire2suits300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spider+Solitaire+2+suits",
+    "name": "Spider Solitaire 2 suits",
+    "embedLink": "https://cdn.htmlgames.com/SpiderSolitaire2Suits/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/yukonsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Yukon+Solitaire",
+    "name": "Yukon Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/YukonSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/frozencastlesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Frozen+Castle+Solitaire",
+    "name": "Frozen Castle Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FrozenCastleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/piratesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Pirate+Klondike",
+    "name": "Pirate Klondike",
+    "embedLink": "https://cdn.htmlgames.com/PirateKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/aceofspades300.jpg",
+    "link": "https://www.htmlgames.com/game/Ace+of+Spades",
+    "name": "Ace of Spades",
+    "embedLink": "https://cdn.htmlgames.com/AceOfSpades/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/mountainsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Mountain+Solitaire",
+    "name": "Mountain Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/MountainSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/christmastripeaks300200.jpg",
+    "link": "https://www.htmlgames.com/game/Christmas+Tripeaks",
+    "name": "Christmas Tripeaks",
+    "embedLink": "https://cdn.htmlgames.com/ChristmasTripeaks/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/crazyeights300200.jpg",
+    "link": "https://www.htmlgames.com/game/Crazy+Eights",
+    "name": "Crazy Eights",
+    "embedLink": "https://cdn.htmlgames.com/CrazyEights/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/paristripeaks300200.jpg",
+    "link": "https://www.htmlgames.com/game/Paris+Tripeaks",
+    "name": "Paris Tripeaks",
+    "embedLink": "https://cdn.htmlgames.com/ParisTripeaks/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/maumau300200.jpg",
+    "link": "https://www.htmlgames.com/game/Mau+Mau",
+    "name": "Mau Mau",
+    "embedLink": "https://cdn.htmlgames.com/MauMau/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/alhambrasolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Alhambra+Solitaire",
+    "name": "Alhambra Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/AlhambraSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/free-cell-300.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell",
+    "name": "Freecell",
+    "embedLink": "https://cdn.htmlgames.com/Free-cell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/hearts300200.jpg",
+    "link": "https://www.htmlgames.com/game/Hearts",
+    "name": "Hearts",
+    "embedLink": "https://cdn.htmlgames.com/Hearts/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/fortythievessolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Forty+Thieves+Solitaire",
+    "name": "Forty Thieves Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FortyThievesSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/pyramidsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Pyramid+Solitaire",
+    "name": "Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/PyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/russiansolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Russian+Solitaire",
+    "name": "Russian Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/RussianSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/alibabasolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Ali+Baba+Solitaire",
+    "name": "Ali Baba Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/AliBabaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tajmahalsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Taj+Mahal+Solitaire",
+    "name": "Taj Mahal Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TajMahalSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/canfieldsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Canfield+Solitaire",
+    "name": "Canfield Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/CanfieldSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/wildwestklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Wild+West+Klondike",
+    "name": "Wild West Klondike",
+    "embedLink": "https://cdn.htmlgames.com/WildWestKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/incapyramidsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Inca+Pyramid+Solitaire",
+    "name": "Inca Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/IncaPyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/bigspidersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Big+Spider+Solitaire",
+    "name": "Big Spider Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/BigSpiderSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/crescentsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Crescent+Solitaire",
+    "name": "Crescent Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/CrescentSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/seatowersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Sea+Tower+Solitaire",
+    "name": "Sea Tower Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SeaTowerSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/jumpingspider300200.jpg",
+    "link": "https://www.htmlgames.com/game/Jumping+Spider",
+    "name": "Jumping Spider",
+    "embedLink": "https://cdn.htmlgames.com/JumpingSpider/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tripeakscreatures300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tripeaks+Creatures",
+    "name": "Tripeaks Creatures",
+    "embedLink": "https://cdn.htmlgames.com/TripeaksCreatures/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/aceofhearts300.jpg",
+    "link": "https://www.htmlgames.com/game/Ace+of+Hearts",
+    "name": "Ace of Hearts",
+    "embedLink": "https://cdn.htmlgames.com/AceOfHearts/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/secretrussian300200.jpg",
+    "link": "https://www.htmlgames.com/game/Secret+Russian",
+    "name": "Secret Russian",
+    "embedLink": "https://cdn.htmlgames.com/SecretRussian/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/blindfreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Blind+Freecell",
+    "name": "Blind Freecell",
+    "embedLink": "https://cdn.htmlgames.com/BlindFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/hugespidersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Huge+Spider+Solitaire",
+    "name": "Huge Spider Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/HugeSpiderSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/troysolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Troy+Solitaire",
+    "name": "Troy Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TroySolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/magiccastlesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Magic+Castle+Solitaire",
+    "name": "Magic Castle Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/MagicCastleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spiderfreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spider+Freecell",
+    "name": "Spider Freecell",
+    "embedLink": "https://cdn.htmlgames.com/SpiderFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/snowypeakssolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Snowy+Peaks+Solitaire",
+    "name": "Snowy Peaks Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SnowyPeaksSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellsummerholiday300200.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Summer+Holiday",
+    "name": "Freecell Summer Holiday",
+    "embedLink": "https://cdn.htmlgames.com/FreecellSummerHoliday/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/threecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Three+Cell",
+    "name": "Three Cell",
+    "embedLink": "https://cdn.htmlgames.com/ThreeCell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/alien-pyramid-solitaire-300.jpg",
+    "link": "https://www.htmlgames.com/game/Alien+Pyramid+Solitaire",
+    "name": "Alien Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/AlienPyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/classicsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Classic+Solitaire",
+    "name": "Classic Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ClassicSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/classicklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Classic+Klondike",
+    "name": "Classic Klondike",
+    "embedLink": "https://cdn.htmlgames.com/ClassicKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/firemansolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Firemen+Solitaire",
+    "name": "Firemen Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FiremenSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/lightningsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Lightning+Solitaire",
+    "name": "Lightning Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/LightningSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/3pyramidtripeaks300200.jpg",
+    "link": "https://www.htmlgames.com/game/3+Pyramid+Tripeaks",
+    "name": "3 Pyramid Tripeaks",
+    "embedLink": "https://cdn.htmlgames.com/3PyramidTripeaks/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/addictionsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Gaps+Solitaire",
+    "name": "Gaps Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/GapsSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/3pyramidtripeaks300200.jpg",
+    "link": "https://www.htmlgames.com/game/3+Pyramid+Tripeaks+2",
+    "name": "3 Pyramid Tripeaks 2",
+    "embedLink": "https://cdn.htmlgames.com/3PyramidTripeaks2/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/ancientromesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Ancient+Rome+Solitaire",
+    "name": "Ancient Rome Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/AncientRomeSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/egyptpyramidsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Egypt+Pyramid+Solitaire",
+    "name": "Egypt Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/EgyptPyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellklondikesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Klondike+Solitaire",
+    "name": "Freecell Klondike Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FreecellKlondikeSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/waspsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Wasp+Solitaire",
+    "name": "Wasp Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/WaspSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/strongholdsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Stronghold+Solitaire",
+    "name": "Stronghold Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/StrongholdSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/flowergardensolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Flower+Garden+Solitaire",
+    "name": "Flower Garden Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FlowerGardenSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/casinoblackjack300.jpg",
+    "link": "https://www.htmlgames.com/game/Casino+Blackjack",
+    "name": "Casino Blackjack",
+    "embedLink": "https://cdn.htmlgames.com/CasinoBlackjack/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/solitaireconnect300200.jpg",
+    "link": "https://www.htmlgames.com/game/Solitaire+Connect",
+    "name": "Solitaire Connect",
+    "embedLink": "https://cdn.htmlgames.com/SolitaireConnect/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/doubletowerofhanoisolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Double+Tower+of+Hanoi+Solitaire",
+    "name": "Double Tower of Hanoi Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/DoubleTowerOfHanoiSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/thievesofegypt300200.jpg",
+    "link": "https://www.htmlgames.com/game/Thieves+of+Egypt",
+    "name": "Thieves of Egypt",
+    "embedLink": "https://cdn.htmlgames.com/ThievesOfEgypt/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/kingklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Kings+Klondike",
+    "name": "Kings Klondike",
+    "embedLink": "https://cdn.htmlgames.com/KingsKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/3keyssolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/3+Keys+Solitaire",
+    "name": "3 Keys Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/3KeysSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/mayapyramidsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Maya+Pyramid+Solitaire",
+    "name": "Maya Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/MayaPyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tripeakssolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tripeaks+Solitaire",
+    "name": "Tripeaks Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TripeaksSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/santasolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Santa+Solitaire",
+    "name": "Santa Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SantaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/doublefreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Double+Freecell",
+    "name": "Double Freecell",
+    "embedLink": "https://cdn.htmlgames.com/DoubleFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/russianfreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Russian+Freecell",
+    "name": "Russian Freecell",
+    "embedLink": "https://cdn.htmlgames.com/RussianFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/ginrummy300200.jpg",
+    "link": "https://www.htmlgames.com/game/Gin+Rummy",
+    "name": "Gin Rummy",
+    "embedLink": "https://cdn.htmlgames.com/GinRummy/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/pesten300200.jpg",
+    "link": "https://www.htmlgames.com/game/Pesten",
+    "name": "Pesten",
+    "embedLink": "https://cdn.htmlgames.com/Pesten/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Solitaire",
+    "name": "Freecell Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FreecellSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/cupofteasolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Cup+of+Tea+Solitaire",
+    "name": "Cup of Tea Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/CupOfTeaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/yukonfreecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Yukon+Freecell",
+    "name": "Yukon Freecell",
+    "embedLink": "https://cdn.htmlgames.com/YukonFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellgizasolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Giza+Solitaire",
+    "name": "Freecell Giza Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/FreecellGizaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/trifruitsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tri-Fruit+Solitaire",
+    "name": "Tri-Fruit Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TriFruitSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spidike300.jpg",
+    "link": "https://www.htmlgames.com/game/Spidike+Solitaire",
+    "name": "Spidike Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SpidikeSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/algerianpatience300200.jpg",
+    "link": "https://www.htmlgames.com/game/Algerian+Patience",
+    "name": "Algerian Patience",
+    "embedLink": "https://cdn.htmlgames.com/AlgerianPatience/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/queeniesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Queenie+Solitaire",
+    "name": "Queenie Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/QueenieSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/amsterdamsklaverjassen300.jpg",
+    "link": "https://www.htmlgames.com/game/Amsterdams+Klaverjassen",
+    "name": "Amsterdams Klaverjassen",
+    "embedLink": "https://cdn.htmlgames.com/AmsterdamsKlaverjassen/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/towersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tower+Solitaire",
+    "name": "Tower Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TowerSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/blackjackchain300200.jpg",
+    "link": "https://www.htmlgames.com/game/BlackJack+Chain",
+    "name": "BlackJack Chain",
+    "embedLink": "https://cdn.htmlgames.com/BlackJackChain/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/skyscrapersolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Skyscraper+Solitaire",
+    "name": "Skyscraper Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SkyscraperSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/labellelucie300200.jpg",
+    "link": "https://www.htmlgames.com/game/La+Belle+Lucie",
+    "name": "La Belle Lucie",
+    "embedLink": "https://cdn.htmlgames.com/LaBelleLucie/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecellduplex300200.jpg",
+    "link": "https://www.htmlgames.com/game/Freecell+Duplex",
+    "name": "Freecell Duplex",
+    "embedLink": "https://cdn.htmlgames.com/FreecellDuplex/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/rummi300200.jpg",
+    "link": "https://www.htmlgames.com/game/Rummi",
+    "name": "Rummi",
+    "embedLink": "https://cdn.htmlgames.com/Rummi/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/egyptsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Egypt+Solitaire",
+    "name": "Egypt Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/EgyptSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/saratogasolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Saratoga+Solitaire",
+    "name": "Saratoga Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/SaratogaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/secretdoubleklondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Secret+Double+Klondike",
+    "name": "Secret Double Klondike",
+    "embedLink": "https://cdn.htmlgames.com/SecretDoubleKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tripeakshalloween300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tripeaks+Halloween",
+    "name": "Tripeaks Halloween",
+    "embedLink": "https://cdn.htmlgames.com/TripeaksHalloween/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/wintersolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Winter+Solitaire",
+    "name": "Winter Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/WinterSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/chinesesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Chinese+Solitaire",
+    "name": "Chinese Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ChineseSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/blackwidowsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Black+Widow+Solitaire",
+    "name": "Black Widow Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/BlackWidowSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/golfsolitairepro300200.jpg",
+    "link": "https://www.htmlgames.com/game/Golf+Solitaire+Pro",
+    "name": "Golf Solitaire Pro",
+    "embedLink": "https://cdn.htmlgames.com/GolfSolitairePro/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/pyramidmountains300200.jpg",
+    "link": "https://www.htmlgames.com/game/Pyramid+Mountains",
+    "name": "Pyramid Mountains",
+    "embedLink": "https://cdn.htmlgames.com/PyramidMountains/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/castlesinspain300200.jpg",
+    "link": "https://www.htmlgames.com/game/Castles+in+Spain",
+    "name": "Castles in Spain",
+    "embedLink": "https://cdn.htmlgames.com/CastlesInSpain/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/doublesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Double+Solitaire",
+    "name": "Double Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/DoubleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/glowsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Glow+Solitaire",
+    "name": "Glow Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/GlowSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/gizasolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Giza+Solitaire",
+    "name": "Giza Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/GizaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/blackholesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Black+Hole+Solitaire",
+    "name": "Black Hole Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/BlackHoleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/houseofcards300200.jpg",
+    "link": "https://www.htmlgames.com/game/House+of+Cards",
+    "name": "House of Cards",
+    "embedLink": "https://cdn.htmlgames.com/HouseOfCards/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/scottishsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Scottish+Solitaire",
+    "name": "Scottish Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ScottishSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/wildwestsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Wild+West+Solitaire",
+    "name": "Wild West Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/WildWestSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/dailyfreecell300.jpg",
+    "link": "https://www.htmlgames.com/game/Daily+Freecell",
+    "name": "Daily Freecell",
+    "embedLink": "https://cdn.htmlgames.com/DailyFreecell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/vegaspoker300.jpg",
+    "link": "https://www.htmlgames.com/game/Vegas+Poker",
+    "name": "Vegas Poker",
+    "embedLink": "https://cdn.htmlgames.com/VegasPoker/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/luxortripeaks300.jpg",
+    "link": "https://www.htmlgames.com/game/Luxor+Tri+Peaks",
+    "name": "Luxor Tri Peaks",
+    "embedLink": "https://cdn.htmlgames.com/LuxorTriPeaks/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/ancientwonderssolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Ancient+Wonders+Solitaire",
+    "name": "Ancient Wonders Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/AncientWondersSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/TowerofHanoiSolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Tower+of+Hanoi+Solitaire",
+    "name": "Tower of Hanoi Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TowerOfHanoiSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/junglepyramidsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Jungle+Pyramid+Solitaire",
+    "name": "Jungle Pyramid Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/JunglePyramidSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/eliminatorsolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Eliminator+Solitaire",
+    "name": "Eliminator Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/EliminatorSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/circussolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Circus+Solitaire",
+    "name": "Circus Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/CircusSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/spidersolitaire1suit300200.jpg",
+    "link": "https://www.htmlgames.com/game/Spider+Solitaire+1+suit",
+    "name": "Spider Solitaire 1 suit",
+    "embedLink": "https://cdn.htmlgames.com/SpiderSolitaire1Suit/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/neptunesolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Neptune+Solitaire",
+    "name": "Neptune Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/NeptuneSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/penguinsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Penguin+Solitaire",
+    "name": "Penguin Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/PenguinSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/freecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/Free+Cell",
+    "name": "Free Cell",
+    "embedLink": "https://cdn.htmlgames.com/FreeCell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/beetlesolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Beetle+Solitaire",
+    "name": "Beetle Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/BeetleSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/euchre300200.jpg",
+    "link": "https://www.htmlgames.com/game/Euchre",
+    "name": "Euchre",
+    "embedLink": "https://cdn.htmlgames.com/Euchre/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/tarantulasolitaire300.jpg",
+    "link": "https://www.htmlgames.com/game/Tarantula+Solitaire",
+    "name": "Tarantula Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/TarantulaSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/ridethebus300200.jpg",
+    "link": "https://www.htmlgames.com/game/Ride+the+Bus",
+    "name": "Ride the Bus",
+    "embedLink": "https://cdn.htmlgames.com/RideTheBus/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/classicfreecellsolitaire300200.jpg",
+    "link": "https://www.htmlgames.com/game/Classic+Freecell+Solitaire",
+    "name": "Classic Freecell Solitaire",
+    "embedLink": "https://cdn.htmlgames.com/ClassicFreecellSolitaire/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/bakergame300200.jpg",
+    "link": "https://www.htmlgames.com/game/Baker%27s+Game",
+    "name": "Baker's Game",
+    "embedLink": "https://cdn.htmlgames.com/BakersGame/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/pyramid-klondike300200.jpg",
+    "link": "https://www.htmlgames.com/game/Pyramid+Klondike",
+    "name": "Pyramid Klondike",
+    "embedLink": "https://cdn.htmlgames.com/PyramidKlondike/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/eightoff300200.jpg",
+    "link": "https://www.htmlgames.com/game/Eight+Off",
+    "name": "Eight Off",
+    "embedLink": "https://cdn.htmlgames.com/EightOff/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/onecell300200.jpg",
+    "link": "https://www.htmlgames.com/game/One+Cell",
+    "name": "One Cell",
+    "embedLink": "https://cdn.htmlgames.com/OneCell/index.html?npa=1",
+    "category": "Solitaire"
+  },
+  {
+    "image": "https://www.htmlgames.com/uploaded/game/thumb/rotterdamsklaverjassen300.jpg",
+    "link": "https://www.htmlgames.com/game/Rotterdams+Klaverjassen",
+    "name": "Rotterdams Klaverjassen",
+    "embedLink": "https://cdn.htmlgames.com/RotterdamsKlaverjassen/index.html?npa=1",
+    "category": "Solitaire"
+  }
+]
